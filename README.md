@@ -1,6 +1,5 @@
-Normal Text
+# Writeing a README samples
 
-
-#heading 1
+eading 1
 
 ####heading
