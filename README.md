@@ -1,5 +1,4 @@
-# Writeing a README samples
-
+# sc-PHENIX
 ## eading 1
 
 #### heading
